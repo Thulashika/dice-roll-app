@@ -24,3 +24,11 @@ void main() {
   addTwoNumbers(7.3, 76.87);
   divideTwoNumbers(10.0, 5.0);
 }
+
+//task 01
+/*
+write a function that divides a number with anotherr number and prints the result.
+
+variables should use the lowerCamelCase naming convention ---> numberOne
+functions should also use the lowerCamelCase naming convention ---> addTwoNumbers
+*/
