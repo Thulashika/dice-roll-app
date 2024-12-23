@@ -1,6 +1,4 @@
 // add two numbers and print
-import 'package:flutter/material.dart';
-
 void addTwoNumbers() {
   int numberOne = 5;
   int numberTwo = 10;
