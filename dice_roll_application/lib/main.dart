@@ -29,10 +29,11 @@ class DiceRollApp extends StatelessWidget {
             Image.asset(
               'assets/images/dice-1.png', 
               height: 225, 
-              width: 225,),
+              width: 225,
+            ),
             Container(
               height: 51,
-              width: 298,
+              width: MediaQuery.of(context).size.width * 0.7,
               decoration: BoxDecoration(
                 color: Color.fromARGB(255, 29, 46, 29),
                 borderRadius: BorderRadius.circular(12.0)),
